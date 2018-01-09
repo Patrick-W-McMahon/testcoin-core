@@ -1,0 +1,12 @@
+beancash (1.1.2.2-jessie) jessie; urgency=low
+
+* Add GNOME/KDE support for beancash-qt's beancash: URI support.
+
+-- Bitbeaner <admin@beancash.org> Sat Sep 30 16:55:21 EDT 2017
+
+beancash (1.1.2.2) unstable; urgency=low
+
+  [ Bitbeaner ]
+  * Initial release.
+
+ -- Bitbeaner <admin@bitbean.org>  Sat Sep 30 16:05:39 EDT 2017
